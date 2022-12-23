@@ -1,6 +1,6 @@
 # CS201-PROJECT
-SUFFIX TREE
-There are three codes in this folder
+SUFFIX TREE,
+There are three code-files in this PROJECT
 1. subandrepeat.c
     This above code demonstrates the implementation of suffix tree using ukkonen algorithm and its first two applications.
     A.)To find if a substring is present in a text
